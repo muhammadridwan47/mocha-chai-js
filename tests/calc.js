@@ -2,7 +2,7 @@
 const chai = require('chai')
 const expect = chai.expect
 
-const calculator = require('../src/calculator')
+const calculator = require('../utils/calculator')
 
 describe('Calculator', () => {
 	describe('Addition', () => {
