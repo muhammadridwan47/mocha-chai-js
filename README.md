@@ -4,17 +4,22 @@
 
 Running this project:
 
-1 running basic testing
+ remember don't forget to install!
+  ```
+   npm install  
+  ``` 
+
+- running basic testing
   ```
    npm test tests/calc.js  
   ``` 
   
-2 running testing API jsonplaceholderapi
+- running testing API jsonplaceholderapi
   ```
   npm test --exit tests/jsonplaceholderapi.js    
   ```
 
-3 running testing API jsonplaceholderapi
+- running testing API jsonplaceholderapi
   ```
   npm test --exit tests/api.js   
   ```
