@@ -4,7 +4,7 @@
 
 Running this project:
 
- remember don't forget to do: npm install!
+ remember don't forget to do: npm install! in your terminal
   ```
    npm install  
   ``` 
