@@ -14,12 +14,12 @@ Running this project:
    npm test tests/calc.js  
   ``` 
   
-- running testing API jsonplaceholderapi
+- running testing jsonplaceholderapi API 
   ```
   npm test --exit tests/jsonplaceholderapi.js    
   ```
 
-- running testing API jsonplaceholderapi
+- running testing Custom API 
   ```
   npm test --exit tests/api.js   
   ```
